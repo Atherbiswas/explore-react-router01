@@ -14,7 +14,6 @@ const Posts = () => {
                 post = {post}
                 ></Post>)
             }
-            
         </div>
     );
 };
